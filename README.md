@@ -9,3 +9,5 @@ This velocity distribution wil then be compared with Maxwell Boltzmann distribut
 
 This is not a realtime simulation. Calculation will be done first and then the result will be presented as graph of particle position using Matplotlib animation.
 Result can be also saved as video
+
+# Result Example
